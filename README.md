@@ -2,7 +2,7 @@
 
 The dataset and dashboard design is entirely credited to Udemy Course:Microsoft Power BI Desktop for Business Intelligence (https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/), instructed by Mavan Analytic and Chris Dutton. This is the course I enrolled for learning Power BI Desktop. Highly recommend to anyone interested in learning Power BI.
 
-The dashboard design is to assist the bike company to monitor order, revenue and return decomposed by each product, cusomter and also time trend.
+The dashboard design is to assist the bike company to monitor order, revenue and return decomposed by each product, customer and also changes over time.
 
 ## Step involved in building dashboard
 1. Loaded all the tables into power bi, renamed tables as either lookup tables or data table based on the table informtation. 
@@ -13,7 +13,7 @@ The dashboard design is to assist the bike company to monitor order, revenue and
 
 4. Created 3 interactive dashboard. 
 
-## Detail of each dashboard.
+## Detail of each dashboard page
 
 1.Page one:Executive summary 
 
@@ -27,7 +27,7 @@ d) Show total orders by geographical locations
 
 2.Page two:Product details 
 
-a) Drill through each product in executive summary page will show current month orders & revenue and returns against targets.
+a) Drill through each product in executive summary page will show current month orders & revenue and returns against targets for the chosen product.
 
 b) A slicer added for product price adjustment, chart will shows actual profit against adjusted profit, and also a line chart shows weekly profit movement.
 
@@ -37,7 +37,7 @@ c) Weekly return volumn line chart also provided.
 
 a) Show total order & revenue by each customer. 
 
-b) Show customer gender, incom level and occupation details. 
+b) Show customer gender, income level and occupation details. 
 
 c) Show order & revenue from time to time
 
