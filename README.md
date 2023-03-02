@@ -2,7 +2,7 @@
 
 The dataset and dashboard design is entirely credited to Udemy Course:Microsoft Power BI Desktop for Business Intelligence (https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/), instructed by Mavan Analytic and Chris Dutton. This is the course I enrolled for learning Power BI Desktop. Highly recommend to anyone interested in learning Power BI.
 
-The dashboard design is to assist the bike company to monitor order, revenue and return decomposed by each product, customer and also changes over time.
+The dashboard design is to assist the Adventure Works (a bike company) to monitor order, revenue and return decomposed by each product, customer and also changes over time.
 
 ## Steps involved in building dashboard
 1. Loaded all the tables into power bi, renamed tables as either lookup tables or data table based on the table informtation. 
