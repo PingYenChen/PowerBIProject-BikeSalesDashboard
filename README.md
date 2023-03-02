@@ -4,7 +4,7 @@ The dataset and dashboard design is entirely credited to Udemy Course:Microsoft 
 
 The dashboard design is to assist the bike company to monitor order, revenue and return decomposed by each product, customer and also changes over time.
 
-## Step involved in building dashboard
+## Steps involved in building dashboard
 1. Loaded all the tables into power bi, renamed tables as either lookup tables or data table based on the table informtation. 
 
 2. Added columns & measures as required for analysis purpose.
